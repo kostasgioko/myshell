@@ -1,5 +1,5 @@
 # myshell
-A custom shell for the university course 'Operating Systems' project.
+A custom shell for the 'Operating Systems' university course project.
 
 # Unix Shell
 This program provides a command line user interface for Unix-like operating systems. The shell can work in interactive mode, where the user inputs commands in real time, or in batch mode where the shell executes a series of commands defined in a batchfile.
