@@ -5,7 +5,6 @@ A custom shell for the 'Operating Systems' university course project.
 This program provides a command line user interface for Unix-like operating systems. The shell can work in interactive mode, where the user inputs commands in real time, or in batch mode where the shell executes a series of commands defined in a batchfile.
 
 # Installation & Execution
-
 1) Clone the repository.
 2) Open a terminal inside the directory.
 3) Type "make" to create the executable.
