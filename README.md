@@ -7,9 +7,10 @@ This program provides a command line user interface for Unix-like operating syst
 # Installation & Execution
 1) Clone the repository.
 2) Open a terminal inside the directory.
-3) Type "make" to create the executable.
-4) Type "bin/myshell" for interactive mode and "bin/myshell batchfile" for batch mode.
-5) Type "make purge" if you want to delete the executable.
+3) Type "mkdir bin" to create the bin directory.
+4) Type "make" to create the executable.
+5) Type "bin/myshell" for interactive mode and "bin/myshell batchfile" for batch mode.
+6) Type "make purge" if you want to delete the executable.
 
 # Usage example
 1) Interactive Mode:
